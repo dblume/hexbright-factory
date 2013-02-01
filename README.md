@@ -35,11 +35,14 @@ followed the following steps, which I got from [David Hilton]
 ## hexbright-factory.ino
 
 I made a small change to hexbright\_factory.ino that came with the light.
-Quick button presses cycle through off, low, medium, and high modes.  
-Hold down the button while off for blinky mode. What's different now is that
-after you've used the light for a couple of seconds, then the next button
-press turns it off.  You no longer have to cycle through the various brightness
-levels.
+
+The following is essentially the same: Quick button presses cycle through
+off, low, medium, and high modes. Hold down the button while off for blinky 
+mode.
+
+What's different now is that after you've used the light for a couple of 
+seconds, then the next button press always turns it off.  You no longer 
+have to cycle through the various brightness levels.
 
 ## Other Resources
 

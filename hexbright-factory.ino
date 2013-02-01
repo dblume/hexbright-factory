@@ -2,6 +2,7 @@
 
   Factory firmware for HexBright FLEX 
   v2.4  Dec 6, 2012
+  btnDown timout added by David Blume, Jan 31, 2013
   
 */
 

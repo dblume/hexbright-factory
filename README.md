@@ -6,16 +6,15 @@ This repository is essentially a clone of the hexbright\_factory.ino file from t
 ## Uploading your first binary to the HexBright Flex.
 
 For me to be able to upload my first program to my HexBright light, I
-followed the following steps, which I got from [David Hilton]
-(https://github.com/dhiltonp). I just added some additional notes.
+followed the following steps, which I got from [David Hilton](https://github.com/dhiltonp).
+I just added some additional notes.
 
-1. Download and install the [Arduino Development Software]
-   (http://arduino.cc/en/Main/Software). Note: Microsoft Windows users 
-   shouldn't use the OS's "Extract All..." command. That'll leave out 
-   some necessary subdirectories. I successfully unzipped it with 7-zip.
+1. Download and install the [Arduino Development Software](http://arduino.cc/en/Main/Software).
+   Note: Microsoft Windows users shouldn't use the OS's "Extract All..."
+   command. That'll leave out some necessary subdirectories. I successfully
+   unzipped it with 7-zip.
 
-2. Download and install the CP210x driver (Use a VCP Driver Kit from [here]
-   (http://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)).
+2. Download and install the CP210x driver (Use a VCP Driver Kit from [here](http://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)).
    Note that the HexBright charges via USB without the driver, but the
    driver is necessary for Arduino to upload the code to the light.
 
@@ -50,5 +49,5 @@ have to cycle through the various brightness levels.
 * [Arduino IDE](http://arduino.cc/en/Main/Software)
 * [Factory sample code](https://github.com/hexbright/samples)
 * [dhiltonp's sample code](https://github.com/dhiltonp/hexbright)
-* [YouTube tutorial](Programming your Hexbright)
+* [YouTube tutorial](https://youtu.be/sUbAkz_Lwxk)
 

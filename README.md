@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # HexBright Factory
 
 This repository is essentially a clone of the hexbright\_factory.ino file from the
